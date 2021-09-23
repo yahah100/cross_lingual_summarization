@@ -1,5 +1,4 @@
 # Cross Lingual- Summarization (Master Thesis)
-- [Thesis as PDF](latex/template/ma.pdf)
 
 ## [Latex](latex/template)
 The Latex Template with the Master Thesis
