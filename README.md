@@ -1,7 +1,4 @@
-# Cross Lingual- Summarization (Master Thesis)
-
-## [Latex](latex/template)
-The Latex Template with the Master Thesis
+# Cross Lingual- Summarization
 
 ## [Code](src)
 Python code, notebooks, dataset, results and trained models.
